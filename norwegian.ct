@@ -1,0 +1,132 @@
+## version $VER: QuickPart.catalog 1.0 (06.08.2026)
+## language norsk
+## codeset 0
+;
+WORD_Bytes
+Byte
+; bytes
+;
+WORD_Unit
+Nummer
+; Unit
+;
+WORD_Drive
+Stasjon
+; Drive
+;
+WORD_Capacity
+Kapasitet
+; Capacity
+;
+WORD_Legend
+_Tegnforklaring
+; _Legend
+;
+WORD_Create
+_Opprett
+; _Create
+;
+WORD_Delete
+_Slett
+; _Delete
+;
+WORD_Use
+_Bruk
+; _Use
+;
+WORD_Save
+_Lagre
+; _Save
+;
+WORD_Cancel
+_Avbryt
+; _Cancel
+;
+WORD_Proceed
+_Fortsett >>
+; _Proceed >>
+;
+WORD_ProgressTitle
+Fremdrift...
+; Progress...
+;
+WORD_LegendTitle
+Tegnforklaring...
+; Legend...
+;
+WORD_Partitions
+Partisjoner
+; Partitions
+;
+WORD_Unused
+Ubrukt
+; Unused
+;
+WORD_Extended
+Utvidet
+; Extended
+;
+WORD_Unknown
+UKJENT
+; UNKNOWN
+;
+MSG_WelcomeTitle
+Velkommen til AROS QuickPart!
+; Welcome to AROS QuickPart!
+;
+MSG_WelcomeText
+Dette programmet lar deg klargjøre\nharddisken slik at den kan brukes av AROS.\n\nFeil bruk kan gjøre at systemet ikke lenger\nstarter, eller til og med kreve\nreinstallasjon - vær forsiktig!
+; This program will allow you to prepare your\nhard disk so that it may be used by AROS.\n\nIncorrect usage may cause your system\nto become unbootable, or even require\nre-installation - please be carefull!
+;
+MSG_DESCRIPTION
+Partisjoner stasjoner som forberedelse til installasjon av AROS.
+; Partition Drives in preperation of installing AROS.
+;
+MSG_SCALE_DRIVES
+_Skaler stasjoner
+; _Scale Drives
+;
+MSG_BUBBLEHELP
+Slå boblehjelp av/på
+; Enable/Disable bubble help
+;
+MSG_SEARCHING
+Ser etter harddisker....\n
+; Looking for Hard Disks....\n
+;
+MSG_DESCRIPTION_LEGEND
+Vis fargene som brukes til å representere partisjoner i QuickPart
+; List the colors used to represent Partitions in QuickPart
+;
+MSG_DESCRIPTION_CREATE
+Opprett en partisjon i det 'VALGTE' ubrukte området
+; Create a partition in the 'SELECTED' unused space
+;
+MSG_DESCRIPTION_DELETE
+Slett en 'VALGT' eksisterende partisjon
+; Delete a 'SELECTED' Existing partition
+;
+MSG_DESCRIPTION_DISK
+Dette er en harddisk som ble funnet i datamaskinen
+; This is a Harddisk found in your computer
+;
+MSG_DESCRIPTION_DISKNAME
+Dette er typen eller navnet på harddisken\n\nHvis det finnes en kjent partisjonstabellstruktur,\n vises den i parentes etter navnet
+; This is the type or name of your harddisk\n\nIf there is a know partition table structure found\n it is displayed in brackets after the name
+;
+MSG_DESCRIPTION_DISKSIZE
+Dette er størrelsen på harddisken
+; This is the size of the Harddisk
+;
+MSG_DESCRIPTION_DISKDEVICE
+Dette er enheten harddisken er koblet til
+; This is the device your Harddisk is connected to
+;
+MSG_DESCRIPTION_PARTITIONS
+Linjen representerer innholdet på harddisken\n\nFør den kan brukes, må det finnes passende partisjoner for AROS
+; The bar represents the content of your harddisk\n\nBefore it is usable, suitable partitons for AROS must be present
+;
+MSG_GUIFAILED
+Klarte ikke å initialisere Zune-grensesnittet\n
+; Failed to intialize Zune GUI\n
+;

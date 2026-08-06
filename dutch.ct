@@ -1,0 +1,132 @@
+## version $VER: QuickPart.catalog 1.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+WORD_Bytes
+bytes
+; bytes
+;
+WORD_Unit
+Unit
+; Unit
+;
+WORD_Drive
+Schijf
+; Drive
+;
+WORD_Capacity
+Capaciteit
+; Capacity
+;
+WORD_Legend
+_Legenda
+; _Legend
+;
+WORD_Create
+_Aanmaken
+; _Create
+;
+WORD_Delete
+_Verwijder
+; _Delete
+;
+WORD_Use
+_Gebruik
+; _Use
+;
+WORD_Save
+_Bewaar
+; _Save
+;
+WORD_Cancel
+_Annuleer
+; _Cancel
+;
+WORD_Proceed
+_Doorgaan >>
+; _Proceed >>
+;
+WORD_ProgressTitle
+Voortgang...
+; Progress...
+;
+WORD_LegendTitle
+Legenda...
+; Legend...
+;
+WORD_Partitions
+Partities
+; Partitions
+;
+WORD_Unused
+Ongebruikt
+; Unused
+;
+WORD_Extended
+Uitgebreid
+; Extended
+;
+WORD_Unknown
+ONBEKEND
+; UNKNOWN
+;
+MSG_WelcomeTitle
+Welkom bij AROS QuickPart!
+; Welcome to AROS QuickPart!
+;
+MSG_WelcomeText
+Met dit programma kunt u uw harde schijf\nvoorbereiden voor gebruik door AROS.\n\nOnjuist gebruik kan ertoe leiden dat uw systeem\nniet meer opstart of zelfs opnieuw geïnstalleerd\nmoet worden - wees voorzichtig!
+; This program will allow you to prepare your\nhard disk so that it may be used by AROS.\n\nIncorrect usage may cause your system\nto become unbootable, or even require\nre-installation - please be carefull!
+;
+MSG_DESCRIPTION
+Schijven partitioneren ter voorbereiding van de installatie van AROS.
+; Partition Drives in preperation of installing AROS.
+;
+MSG_SCALE_DRIVES
+_Schaal schijven
+; _Scale Drives
+;
+MSG_BUBBLEHELP
+Bellenhulp in-/uitschakelen
+; Enable/Disable bubble help
+;
+MSG_SEARCHING
+Zoeken naar harde schijven....\n
+; Looking for Hard Disks....\n
+;
+MSG_DESCRIPTION_LEGEND
+Toont de kleuren die partities in QuickPart weergeven
+; List the colors used to represent Partitions in QuickPart
+;
+MSG_DESCRIPTION_CREATE
+Maak een partitie in de 'GESELECTEERDE' ongebruikte ruimte
+; Create a partition in the 'SELECTED' unused space
+;
+MSG_DESCRIPTION_DELETE
+Verwijder een 'GESELECTEERDE' bestaande partitie
+; Delete a 'SELECTED' Existing partition
+;
+MSG_DESCRIPTION_DISK
+Dit is een harde schijf die in uw computer is gevonden
+; This is a Harddisk found in your computer
+;
+MSG_DESCRIPTION_DISKNAME
+Dit is het type of de naam van uw harde schijf\n\nAls er een bekende partitietabelstructuur wordt gevonden,\n wordt deze tussen haakjes achter de naam getoond
+; This is the type or name of your harddisk\n\nIf there is a know partition table structure found\n it is displayed in brackets after the name
+;
+MSG_DESCRIPTION_DISKSIZE
+Dit is de grootte van de harde schijf
+; This is the size of the Harddisk
+;
+MSG_DESCRIPTION_DISKDEVICE
+Dit is het device waarop uw harde schijf is aangesloten
+; This is the device your Harddisk is connected to
+;
+MSG_DESCRIPTION_PARTITIONS
+De balk geeft de inhoud van uw harde schijf weer\n\nVoordat deze bruikbaar is, moeten er geschikte partities voor AROS aanwezig zijn
+; The bar represents the content of your harddisk\n\nBefore it is usable, suitable partitons for AROS must be present
+;
+MSG_GUIFAILED
+Initialiseren van de Zune-GUI is mislukt\n
+; Failed to intialize Zune GUI\n
+;

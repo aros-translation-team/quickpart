@@ -1,0 +1,132 @@
+## version $VER: QuickPart.catalog 1.0 (06.08.2026)
+## language euskara
+## codeset 0
+;
+WORD_Bytes
+byte
+; bytes
+;
+WORD_Unit
+Unitatea
+; Unit
+;
+WORD_Drive
+Unitatea
+; Drive
+;
+WORD_Capacity
+Edukiera
+; Capacity
+;
+WORD_Legend
+_Legenda
+; _Legend
+;
+WORD_Create
+_Sortu
+; _Create
+;
+WORD_Delete
+_Ezabatu
+; _Delete
+;
+WORD_Use
+_Erabili
+; _Use
+;
+WORD_Save
+_Gorde
+; _Save
+;
+WORD_Cancel
+_Deuseztu
+; _Cancel
+;
+WORD_Proceed
+_Jarraitu >>
+; _Proceed >>
+;
+WORD_ProgressTitle
+Aurrerapena...
+; Progress...
+;
+WORD_LegendTitle
+Legenda...
+; Legend...
+;
+WORD_Partitions
+Partizioak
+; Partitions
+;
+WORD_Unused
+Erabili gabe
+; Unused
+;
+WORD_Extended
+Hedatua
+; Extended
+;
+WORD_Unknown
+EZEZAGUNA
+; UNKNOWN
+;
+MSG_WelcomeTitle
+Ongi etorri AROS QuickPart-era!
+; Welcome to AROS QuickPart!
+;
+MSG_WelcomeText
+Programa honek zure disko gogorra prestatzeko\naukera emango dizu, AROSek erabili ahal izan dezan.\n\nOker erabiliz gero, sistema abiaraztezin\ngera daiteke, edo berriro instalatzea\nbehar izan daiteke - kontuz ibili!
+; This program will allow you to prepare your\nhard disk so that it may be used by AROS.\n\nIncorrect usage may cause your system\nto become unbootable, or even require\nre-installation - please be carefull!
+;
+MSG_DESCRIPTION
+Partizionatu unitateak AROS instalatzeko prestatzeko.
+; Partition Drives in preperation of installing AROS.
+;
+MSG_SCALE_DRIVES
+E_skalatu unitateak
+; _Scale Drives
+;
+MSG_BUBBLEHELP
+Gaitu/Desgaitu burbuila-laguntza
+; Enable/Disable bubble help
+;
+MSG_SEARCHING
+Disko gogorrak bilatzen....\n
+; Looking for Hard Disks....\n
+;
+MSG_DESCRIPTION_LEGEND
+Zerrendatu QuickPart-en partizioak irudikatzeko erabilitako koloreak
+; List the colors used to represent Partitions in QuickPart
+;
+MSG_DESCRIPTION_CREATE
+Sortu partizio bat 'HAUTATUTAKO' erabili gabeko espazioan
+; Create a partition in the 'SELECTED' unused space
+;
+MSG_DESCRIPTION_DELETE
+Ezabatu 'HAUTATUTAKO' partizio bat
+; Delete a 'SELECTED' Existing partition
+;
+MSG_DESCRIPTION_DISK
+Hau zure ordenagailuan aurkitutako disko gogor bat da
+; This is a Harddisk found in your computer
+;
+MSG_DESCRIPTION_DISKNAME
+Hau zure disko gogorraren mota edo izena da\n\nPartizio-taula egitura ezagunen bat aurkitzen bada\n izenaren ondoren parentesi artean erakusten da
+; This is the type or name of your harddisk\n\nIf there is a know partition table structure found\n it is displayed in brackets after the name
+;
+MSG_DESCRIPTION_DISKSIZE
+Hau disko gogorraren tamaina da
+; This is the size of the Harddisk
+;
+MSG_DESCRIPTION_DISKDEVICE
+Hau zure disko gogorra konektatuta dagoen gailua da
+; This is the device your Harddisk is connected to
+;
+MSG_DESCRIPTION_PARTITIONS
+Barrak zure disko gogorraren edukia irudikatzen du\n\nErabilgarria izan aurretik, AROSerako partizio egokiak egon behar dira
+; The bar represents the content of your harddisk\n\nBefore it is usable, suitable partitons for AROS must be present
+;
+MSG_GUIFAILED
+Zune GUIa hasieratzeak huts egin du\n
+; Failed to intialize Zune GUI\n
+;

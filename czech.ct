@@ -1,0 +1,132 @@
+## version $VER: QuickPart.catalog 1.0 (06.08.2026)
+## language czech
+## codeset 5
+;
+WORD_Bytes
+bajtù
+; bytes
+;
+WORD_Unit
+Jednotka
+; Unit
+;
+WORD_Drive
+Disk
+; Drive
+;
+WORD_Capacity
+Velikost disku
+; Capacity
+;
+WORD_Legend
+_Legenda
+; _Legend
+;
+WORD_Create
+_Vytvoøit
+; _Create
+;
+WORD_Delete
+_Smazat
+; _Delete
+;
+WORD_Use
+_Pou¾ít
+; _Use
+;
+WORD_Save
+_Ulo¾it
+; _Save
+;
+WORD_Cancel
+_Zru¹it
+; _Cancel
+;
+WORD_Proceed
+_Pokraèovat >>
+; _Proceed >>
+;
+WORD_ProgressTitle
+Prùbìh...
+; Progress...
+;
+WORD_LegendTitle
+Legenda...
+; Legend...
+;
+WORD_Partitions
+Oddíly
+; Partitions
+;
+WORD_Unused
+Nevyu¾itý
+; Unused
+;
+WORD_Extended
+Roz¹íøený
+; Extended
+;
+WORD_Unknown
+NEZNÁMÝ
+; UNKNOWN
+;
+MSG_WelcomeTitle
+Vítejte v programu AROS QuickPart!
+; Welcome to AROS QuickPart!
+;
+MSG_WelcomeText
+Tento program vám umo¾ní pøipravit\nvá¹ pevný disk pro pou¾ití systémem AROS.\n\nNesprávné pou¾ití mù¾e zpùsobit, ¾e vá¹ systém\npøestane být zaveditelný, nebo si dokonce vy¾ádá\nnovou instalaci - buïte prosím opatrní!
+; This program will allow you to prepare your\nhard disk so that it may be used by AROS.\n\nIncorrect usage may cause your system\nto become unbootable, or even require\nre-installation - please be carefull!
+;
+MSG_DESCRIPTION
+Rozdìlení diskù na oddíly pro instalaci systému AROS.
+; Partition Drives in preperation of installing AROS.
+;
+MSG_SCALE_DRIVES
+_Mìøítko diskù
+; _Scale Drives
+;
+MSG_BUBBLEHELP
+Zapnout/vypnout bublinovou nápovìdu
+; Enable/Disable bubble help
+;
+MSG_SEARCHING
+Vyhledávání pevných diskù....\n
+; Looking for Hard Disks....\n
+;
+MSG_DESCRIPTION_LEGEND
+Seznam barev, kterými QuickPart znázoròuje oddíly
+; List the colors used to represent Partitions in QuickPart
+;
+MSG_DESCRIPTION_CREATE
+Vytvoøí oddíl ve 'VYBRANÉM' nevyu¾itém prostoru
+; Create a partition in the 'SELECTED' unused space
+;
+MSG_DESCRIPTION_DELETE
+Sma¾e 'VYBRANÝ' existující oddíl
+; Delete a 'SELECTED' Existing partition
+;
+MSG_DESCRIPTION_DISK
+Toto je pevný disk nalezený ve va¹em poèítaèi
+; This is a Harddisk found in your computer
+;
+MSG_DESCRIPTION_DISKNAME
+Toto je typ nebo název va¹eho pevného disku\n\nJe-li nalezena známá struktura tabulky oddílù,\n je zobrazena v závorkách za názvem
+; This is the type or name of your harddisk\n\nIf there is a know partition table structure found\n it is displayed in brackets after the name
+;
+MSG_DESCRIPTION_DISKSIZE
+Toto je velikost pevného disku
+; This is the size of the Harddisk
+;
+MSG_DESCRIPTION_DISKDEVICE
+Toto je zaøízení, ke kterému je vá¹ pevný disk pøipojen
+; This is the device your Harddisk is connected to
+;
+MSG_DESCRIPTION_PARTITIONS
+Pruh znázoròuje obsah va¹eho pevného disku\n\nAby jej bylo mo¾né pou¾ít, musí existovat vhodné oddíly pro AROS
+; The bar represents the content of your harddisk\n\nBefore it is usable, suitable partitons for AROS must be present
+;
+MSG_GUIFAILED
+Nepodaøilo se inicializovat rozhraní Zune\n
+; Failed to intialize Zune GUI\n
+;

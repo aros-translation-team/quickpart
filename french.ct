@@ -1,0 +1,132 @@
+## version $VER: QuickPart.catalog 1.0 (06.08.2026)
+## language français
+## codeset 0
+;
+WORD_Bytes
+octets
+; bytes
+;
+WORD_Unit
+Unité
+; Unit
+;
+WORD_Drive
+Disque
+; Drive
+;
+WORD_Capacity
+Capacité
+; Capacity
+;
+WORD_Legend
+_Légende
+; _Legend
+;
+WORD_Create
+_Créer
+; _Create
+;
+WORD_Delete
+_Effacer
+; _Delete
+;
+WORD_Use
+_Utiliser
+; _Use
+;
+WORD_Save
+_Sauver
+; _Save
+;
+WORD_Cancel
+_Annuler
+; _Cancel
+;
+WORD_Proceed
+_Poursuivre >>
+; _Proceed >>
+;
+WORD_ProgressTitle
+Progression...
+; Progress...
+;
+WORD_LegendTitle
+Légende...
+; Legend...
+;
+WORD_Partitions
+Partitions
+; Partitions
+;
+WORD_Unused
+Inutilisé
+; Unused
+;
+WORD_Extended
+Étendue
+; Extended
+;
+WORD_Unknown
+INCONNU
+; UNKNOWN
+;
+MSG_WelcomeTitle
+Bienvenue dans AROS QuickPart !
+; Welcome to AROS QuickPart!
+;
+MSG_WelcomeText
+Ce programme vous permettra de préparer votre\ndisque dur afin qu'il puisse être utilisé par AROS.\n\nUne utilisation incorrecte peut rendre votre système\nincapable de démarrer, ou même nécessiter\nune réinstallation - soyez prudent !
+; This program will allow you to prepare your\nhard disk so that it may be used by AROS.\n\nIncorrect usage may cause your system\nto become unbootable, or even require\nre-installation - please be carefull!
+;
+MSG_DESCRIPTION
+Partitionne les disques en vue de l'installation d'AROS.
+; Partition Drives in preperation of installing AROS.
+;
+MSG_SCALE_DRIVES
+_Mettre les disques à l'échelle
+; _Scale Drives
+;
+MSG_BUBBLEHELP
+Activer/Désactiver les bulles d'aide
+; Enable/Disable bubble help
+;
+MSG_SEARCHING
+Recherche des disques durs....\n
+; Looking for Hard Disks....\n
+;
+MSG_DESCRIPTION_LEGEND
+Liste les couleurs utilisées pour représenter les partitions dans QuickPart
+; List the colors used to represent Partitions in QuickPart
+;
+MSG_DESCRIPTION_CREATE
+Créer une partition dans l'espace inutilisé 'SÉLECTIONNÉ'
+; Create a partition in the 'SELECTED' unused space
+;
+MSG_DESCRIPTION_DELETE
+Supprimer une partition existante 'SÉLECTIONNÉE'
+; Delete a 'SELECTED' Existing partition
+;
+MSG_DESCRIPTION_DISK
+Ceci est un disque dur trouvé dans votre ordinateur
+; This is a Harddisk found in your computer
+;
+MSG_DESCRIPTION_DISKNAME
+Ceci est le type ou le nom de votre disque dur\n\nSi une structure de table de partition connue est trouvée\n elle est affichée entre parenthèses après le nom
+; This is the type or name of your harddisk\n\nIf there is a know partition table structure found\n it is displayed in brackets after the name
+;
+MSG_DESCRIPTION_DISKSIZE
+Ceci est la taille du disque dur
+; This is the size of the Harddisk
+;
+MSG_DESCRIPTION_DISKDEVICE
+Ceci est le périphérique auquel votre disque dur est connecté
+; This is the device your Harddisk is connected to
+;
+MSG_DESCRIPTION_PARTITIONS
+La barre représente le contenu de votre disque dur\n\nAvant qu'il soit utilisable, des partitions adaptées à AROS doivent être présentes
+; The bar represents the content of your harddisk\n\nBefore it is usable, suitable partitons for AROS must be present
+;
+MSG_GUIFAILED
+Échec de l'initialisation de l'interface Zune\n
+; Failed to intialize Zune GUI\n
+;

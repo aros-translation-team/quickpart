@@ -1,0 +1,132 @@
+## version $VER: QuickPart.catalog 1.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+WORD_Bytes
+tavua
+; bytes
+;
+WORD_Unit
+Laite
+; Unit
+;
+WORD_Drive
+Asema
+; Drive
+;
+WORD_Capacity
+Kapasiteetti
+; Capacity
+;
+WORD_Legend
+_Selite
+; _Legend
+;
+WORD_Create
+_Luo
+; _Create
+;
+WORD_Delete
+_Poista
+; _Delete
+;
+WORD_Use
+_Käytä
+; _Use
+;
+WORD_Save
+_Tallenna
+; _Save
+;
+WORD_Cancel
+_Peru
+; _Cancel
+;
+WORD_Proceed
+_Jatka >>
+; _Proceed >>
+;
+WORD_ProgressTitle
+Edistyminen...
+; Progress...
+;
+WORD_LegendTitle
+Selite...
+; Legend...
+;
+WORD_Partitions
+Osiot
+; Partitions
+;
+WORD_Unused
+Käyttämätön
+; Unused
+;
+WORD_Extended
+Laajennettu
+; Extended
+;
+WORD_Unknown
+TUNTEMATON
+; UNKNOWN
+;
+MSG_WelcomeTitle
+Tervetuloa AROS QuickPartiin!
+; Welcome to AROS QuickPart!
+;
+MSG_WelcomeText
+Tämä ohjelma auttaa sinua valmistelemaan\nkiintolevysi AROSin käyttöä varten.\n\nVirheellinen käyttö voi tehdä järjestelmästäsi\nkäynnistyskelvottoman tai jopa vaatia\nuudelleenasennuksen - ole varovainen!
+; This program will allow you to prepare your\nhard disk so that it may be used by AROS.\n\nIncorrect usage may cause your system\nto become unbootable, or even require\nre-installation - please be carefull!
+;
+MSG_DESCRIPTION
+Osioi asemat AROSin asennusta varten.
+; Partition Drives in preperation of installing AROS.
+;
+MSG_SCALE_DRIVES
+_Skaalaa asemat
+; _Scale Drives
+;
+MSG_BUBBLEHELP
+Kytke kuplaohjeet päälle tai pois
+; Enable/Disable bubble help
+;
+MSG_SEARCHING
+Etsitään kiintolevyjä....\n
+; Looking for Hard Disks....\n
+;
+MSG_DESCRIPTION_LEGEND
+Luettelo väreistä, joilla osiot esitetään QuickPartissa
+; List the colors used to represent Partitions in QuickPart
+;
+MSG_DESCRIPTION_CREATE
+Luo osio 'VALITTUUN' käyttämättömään tilaan
+; Create a partition in the 'SELECTED' unused space
+;
+MSG_DESCRIPTION_DELETE
+Poista 'VALITTU' olemassa oleva osio
+; Delete a 'SELECTED' Existing partition
+;
+MSG_DESCRIPTION_DISK
+Tämä on tietokoneestasi löytynyt kiintolevy
+; This is a Harddisk found in your computer
+;
+MSG_DESCRIPTION_DISKNAME
+Tämä on kiintolevysi tyyppi tai nimi\n\nJos tunnettu osiotaulurakenne löytyy,\n se näytetään suluissa nimen jälkeen
+; This is the type or name of your harddisk\n\nIf there is a know partition table structure found\n it is displayed in brackets after the name
+;
+MSG_DESCRIPTION_DISKSIZE
+Tämä on kiintolevyn koko
+; This is the size of the Harddisk
+;
+MSG_DESCRIPTION_DISKDEVICE
+Tämä on laite, johon kiintolevysi on kytketty
+; This is the device your Harddisk is connected to
+;
+MSG_DESCRIPTION_PARTITIONS
+Palkki esittää kiintolevysi sisältöä\n\nEnnen kuin levyä voi käyttää, sillä on oltava AROSille sopivat osiot
+; The bar represents the content of your harddisk\n\nBefore it is usable, suitable partitons for AROS must be present
+;
+MSG_GUIFAILED
+Zune-käyttöliittymän alustus epäonnistui\n
+; Failed to intialize Zune GUI\n
+;

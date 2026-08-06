@@ -1,0 +1,132 @@
+## version $VER: QuickPart.catalog 1.0 (06.08.2026)
+## language russian
+## codeset 2104
+;
+WORD_Bytes
+байт
+; bytes
+;
+WORD_Unit
+Unit
+; Unit
+;
+WORD_Drive
+Диск
+; Drive
+;
+WORD_Capacity
+Объём
+; Capacity
+;
+WORD_Legend
+_Легенда
+; _Legend
+;
+WORD_Create
+_Создать
+; _Create
+;
+WORD_Delete
+_Удалить
+; _Delete
+;
+WORD_Use
+Применить
+; _Use
+;
+WORD_Save
+_Сохранить
+; _Save
+;
+WORD_Cancel
+Отмена
+; _Cancel
+;
+WORD_Proceed
+_Продолжить >>
+; _Proceed >>
+;
+WORD_ProgressTitle
+Выполнение...
+; Progress...
+;
+WORD_LegendTitle
+Легенда...
+; Legend...
+;
+WORD_Partitions
+Партиций
+; Partitions
+;
+WORD_Unused
+Не используется
+; Unused
+;
+WORD_Extended
+Расширенная
+; Extended
+;
+WORD_Unknown
+НЕИЗВЕСТНО
+; UNKNOWN
+;
+MSG_WelcomeTitle
+Добро пожаловать в AROS QuickPart!
+; Welcome to AROS QuickPart!
+;
+MSG_WelcomeText
+Эта программа поможет подготовить ваш\nжёсткий диск для использования в AROS.\n\nНеправильное использование может сделать\nсистему незагружаемой или потребовать\nпереустановки - будьте осторожны!
+; This program will allow you to prepare your\nhard disk so that it may be used by AROS.\n\nIncorrect usage may cause your system\nto become unbootable, or even require\nre-installation - please be carefull!
+;
+MSG_DESCRIPTION
+Разбиение дисков на партиции для установки AROS.
+; Partition Drives in preperation of installing AROS.
+;
+MSG_SCALE_DRIVES
+_Масштаб дисков
+; _Scale Drives
+;
+MSG_BUBBLEHELP
+Вкл./выкл. всплывающие подсказки
+; Enable/Disable bubble help
+;
+MSG_SEARCHING
+Поиск жёстких дисков....\n
+; Looking for Hard Disks....\n
+;
+MSG_DESCRIPTION_LEGEND
+Список цветов, которыми обозначаются партиции в QuickPart
+; List the colors used to represent Partitions in QuickPart
+;
+MSG_DESCRIPTION_CREATE
+Создать партицию в 'ВЫБРАННОМ' неиспользуемом пространстве
+; Create a partition in the 'SELECTED' unused space
+;
+MSG_DESCRIPTION_DELETE
+Удалить 'ВЫБРАННУЮ' существующую партицию
+; Delete a 'SELECTED' Existing partition
+;
+MSG_DESCRIPTION_DISK
+Это жёсткий диск, найденный в вашем компьютере
+; This is a Harddisk found in your computer
+;
+MSG_DESCRIPTION_DISKNAME
+Это тип или имя вашего жёсткого диска\n\nЕсли найдена известная структура таблицы партиций,\n она отображается в скобках после имени
+; This is the type or name of your harddisk\n\nIf there is a know partition table structure found\n it is displayed in brackets after the name
+;
+MSG_DESCRIPTION_DISKSIZE
+Это размер жёсткого диска
+; This is the size of the Harddisk
+;
+MSG_DESCRIPTION_DISKDEVICE
+Это устройство, к которому подключён ваш жёсткий диск
+; This is the device your Harddisk is connected to
+;
+MSG_DESCRIPTION_PARTITIONS
+Полоса отображает содержимое вашего жёсткого диска\n\nДля использования на нём должны быть подходящие партиции для AROS
+; The bar represents the content of your harddisk\n\nBefore it is usable, suitable partitons for AROS must be present
+;
+MSG_GUIFAILED
+Не удалось инициализировать интерфейс Zune\n
+; Failed to intialize Zune GUI\n
+;

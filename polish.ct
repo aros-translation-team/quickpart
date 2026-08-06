@@ -1,0 +1,132 @@
+## version $VER: QuickPart.catalog 1.0 (06.08.2026)
+## language polski
+## codeset 5
+;
+WORD_Bytes
+bajtów
+; bytes
+;
+WORD_Unit
+Jednostka
+; Unit
+;
+WORD_Drive
+Dysk
+; Drive
+;
+WORD_Capacity
+Pojemno¶æ
+; Capacity
+;
+WORD_Legend
+_Legenda
+; _Legend
+;
+WORD_Create
+_Utwórz
+; _Create
+;
+WORD_Delete
+S_kasuj
+; _Delete
+;
+WORD_Use
+_U¿yj
+; _Use
+;
+WORD_Save
+Zapi_sz
+; _Save
+;
+WORD_Cancel
+Ponie_chaj
+; _Cancel
+;
+WORD_Proceed
+_Kontynuuj >>
+; _Proceed >>
+;
+WORD_ProgressTitle
+Postêp...
+; Progress...
+;
+WORD_LegendTitle
+Legenda...
+; Legend...
+;
+WORD_Partitions
+Partycje
+; Partitions
+;
+WORD_Unused
+Nieu¿ywane
+; Unused
+;
+WORD_Extended
+Rozszerzona
+; Extended
+;
+WORD_Unknown
+NIEZNANY
+; UNKNOWN
+;
+MSG_WelcomeTitle
+Witamy w AROS QuickPart!
+; Welcome to AROS QuickPart!
+;
+MSG_WelcomeText
+Ten program pozwoli ci przygotowaæ\ntwój dysk twardy, aby móg³ byæ u¿ywany przez AROS-a.\n\nNiew³a¶ciwe u¿ycie mo¿e spowodowaæ, ¿e system\nprzestanie siê uruchamiaæ lub nawet bêdzie wymaga³\nponownej instalacji - zachowaj ostro¿no¶æ!
+; This program will allow you to prepare your\nhard disk so that it may be used by AROS.\n\nIncorrect usage may cause your system\nto become unbootable, or even require\nre-installation - please be carefull!
+;
+MSG_DESCRIPTION
+Dzieli dyski na partycje w ramach przygotowania do instalacji AROS-a.
+; Partition Drives in preperation of installing AROS.
+;
+MSG_SCALE_DRIVES
+_Skaluj dyski
+; _Scale Drives
+;
+MSG_BUBBLEHELP
+W³±cz/wy³±cz dymki pomocy
+; Enable/Disable bubble help
+;
+MSG_SEARCHING
+Szukanie dysków twardych....\n
+; Looking for Hard Disks....\n
+;
+MSG_DESCRIPTION_LEGEND
+Wy¶wietla kolory u¿ywane do przedstawiania partycji w QuickPart
+; List the colors used to represent Partitions in QuickPart
+;
+MSG_DESCRIPTION_CREATE
+Tworzy partycjê w 'WYBRANYM' nieu¿ywanym obszarze
+; Create a partition in the 'SELECTED' unused space
+;
+MSG_DESCRIPTION_DELETE
+Usuwa 'WYBRAN¡' istniej±c± partycjê
+; Delete a 'SELECTED' Existing partition
+;
+MSG_DESCRIPTION_DISK
+To jest dysk twardy znaleziony w twoim komputerze
+; This is a Harddisk found in your computer
+;
+MSG_DESCRIPTION_DISKNAME
+To jest typ lub nazwa twojego dysku twardego\n\nJe¶li znaleziono znan± strukturê tabeli partycji,\n jest ona wy¶wietlana w nawiasach po nazwie
+; This is the type or name of your harddisk\n\nIf there is a know partition table structure found\n it is displayed in brackets after the name
+;
+MSG_DESCRIPTION_DISKSIZE
+To jest rozmiar dysku twardego
+; This is the size of the Harddisk
+;
+MSG_DESCRIPTION_DISKDEVICE
+To jest urz±dzenie, do którego pod³±czony jest twój dysk twardy
+; This is the device your Harddisk is connected to
+;
+MSG_DESCRIPTION_PARTITIONS
+Pasek przedstawia zawarto¶æ twojego dysku twardego\n\nZanim bêdzie mo¿na go u¿yæ, musz± istnieæ odpowiednie partycje dla AROS-a
+; The bar represents the content of your harddisk\n\nBefore it is usable, suitable partitons for AROS must be present
+;
+MSG_GUIFAILED
+Nie uda³o siê zainicjowaæ interfejsu Zune\n
+; Failed to intialize Zune GUI\n
+;

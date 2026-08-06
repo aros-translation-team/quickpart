@@ -1,0 +1,132 @@
+## version $VER: QuickPart.catalog 1.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+WORD_Bytes
+bayt
+; bytes
+;
+WORD_Unit
+Birim
+; Unit
+;
+WORD_Drive
+Sürücü
+; Drive
+;
+WORD_Capacity
+Kapasite
+; Capacity
+;
+WORD_Legend
+_Açýklama
+; _Legend
+;
+WORD_Create
+_Oluþtur
+; _Create
+;
+WORD_Delete
+_Sil
+; _Delete
+;
+WORD_Use
+K_ullan
+; _Use
+;
+WORD_Save
+_Kaydet
+; _Save
+;
+WORD_Cancel
+_Vazgeç
+; _Cancel
+;
+WORD_Proceed
+_Devam Et >>
+; _Proceed >>
+;
+WORD_ProgressTitle
+Ýlerleme...
+; Progress...
+;
+WORD_LegendTitle
+Açýklama...
+; Legend...
+;
+WORD_Partitions
+Bölümler
+; Partitions
+;
+WORD_Unused
+Kullanýlmayan
+; Unused
+;
+WORD_Extended
+Geniþletilmiþ
+; Extended
+;
+WORD_Unknown
+BÝLÝNMEYEN
+; UNKNOWN
+;
+MSG_WelcomeTitle
+AROS QuickPart'a hoþ geldiniz!
+; Welcome to AROS QuickPart!
+;
+MSG_WelcomeText
+Bu program, sabit diskinizi AROS tarafýndan\nkullanýlabilecek þekilde hazýrlamanýzý saðlar.\n\nYanlýþ kullaným sisteminizin baþlatýlamaz\nhale gelmesine, hatta yeniden kurulum\ngerektirmesine neden olabilir - lütfen dikkatli olun!
+; This program will allow you to prepare your\nhard disk so that it may be used by AROS.\n\nIncorrect usage may cause your system\nto become unbootable, or even require\nre-installation - please be carefull!
+;
+MSG_DESCRIPTION
+AROS kurulumuna hazýrlýk olarak Sürücüleri bölümlendirin.
+; Partition Drives in preperation of installing AROS.
+;
+MSG_SCALE_DRIVES
+Sürücüleri Ö_lçekle
+; _Scale Drives
+;
+MSG_BUBBLEHELP
+Balon yardýmýný Etkinleþtir/Devre Dýþý Býrak
+; Enable/Disable bubble help
+;
+MSG_SEARCHING
+Sabit Diskler aranýyor....\n
+; Looking for Hard Disks....\n
+;
+MSG_DESCRIPTION_LEGEND
+QuickPart'ta Bölümleri temsil etmek için kullanýlan renkleri listeler
+; List the colors used to represent Partitions in QuickPart
+;
+MSG_DESCRIPTION_CREATE
+'SEÇÝLEN' kullanýlmayan alanda bir bölüm oluþtur
+; Create a partition in the 'SELECTED' unused space
+;
+MSG_DESCRIPTION_DELETE
+'SEÇÝLEN' Mevcut bir bölümü sil
+; Delete a 'SELECTED' Existing partition
+;
+MSG_DESCRIPTION_DISK
+Bu, bilgisayarýnýzda bulunan bir Sabit Disktir
+; This is a Harddisk found in your computer
+;
+MSG_DESCRIPTION_DISKNAME
+Bu, sabit diskinizin türü veya adýdýr\n\nBilinen bir bölüm tablosu yapýsý bulunursa\n adýn ardýndan parantez içinde gösterilir
+; This is the type or name of your harddisk\n\nIf there is a know partition table structure found\n it is displayed in brackets after the name
+;
+MSG_DESCRIPTION_DISKSIZE
+Bu, Sabit Diskin boyutudur
+; This is the size of the Harddisk
+;
+MSG_DESCRIPTION_DISKDEVICE
+Bu, Sabit Diskinizin baðlý olduðu aygýttýr
+; This is the device your Harddisk is connected to
+;
+MSG_DESCRIPTION_PARTITIONS
+Çubuk, sabit diskinizin içeriðini temsil eder\n\nKullanýlabilmesi için AROS'a uygun bölümlerin bulunmasý gerekir
+; The bar represents the content of your harddisk\n\nBefore it is usable, suitable partitons for AROS must be present
+;
+MSG_GUIFAILED
+Zune arayüzü baþlatýlamadý\n
+; Failed to intialize Zune GUI\n
+;
